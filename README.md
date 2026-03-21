@@ -11,14 +11,11 @@ para **Desenvolvedor Full Stack**.
             
 </div>
 
-<div>
-    <a href="https://www.instagram.com/alexandre_sjunior?igsh=eGY1bXdnOGVuZGlx&utm_source=qr" target="_blank" rel="noopener noreferrer">
+<a href="https://www.instagram.com/alexandre_sjunior?igsh=eGY1bXdnOGVuZGlx&utm_source=qr" target="_blank" rel="noopener noreferrer">
 
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   
     </a>
-
-</div>
 
 <!--
 **alexandrejrdev/alexandrejrdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
