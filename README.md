@@ -1,8 +1,8 @@
 ## Olá, Sou Alexandre Júnior
 
-👨🏼‍💻**Profissional** com mais de 15 anos de Experiência como Analista de Redes <br>
-no seguimento de ISP ( Service Provider ), estou em transição de carreira 
-para **Desenvolvedor Full Stack**. 
+👨🏼‍💻**Profissional** com mais de 15 anos de Experiência <br>
+como Analista de Redes no seguimento de ISP ( Service Provider ), <br> 
+estou em transição de carreira para **Desenvolvedor Full Stack**. 
 
 <div style="display: inline;">
     <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
