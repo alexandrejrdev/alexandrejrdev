@@ -10,6 +10,8 @@ para **Desenvolvedor Full Stack**.
     <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain-wordmark.svg" />   
 </div>
 
+### Minhas Redes de Contato
+
 &nbsp;<a href="https://www.instagram.com/alexandre_sjunior?igsh=eGY1bXdnOGVuZGlx&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;
 
 <!--
